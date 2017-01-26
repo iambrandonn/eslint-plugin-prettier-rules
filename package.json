@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-prettier-rules",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "A rule configuration to match prettier output",
   "keywords": [
     "eslint",
@@ -26,5 +26,6 @@
   "engines": {
     "node": ">=0.10.0"
   },
-  "license": "ISC"
+  "license": "ISC",
+  "private": false
 }
